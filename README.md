@@ -6,7 +6,7 @@
 每一种设计模式都以包(package)的形式存放，大致如下：
 - create_mode(创建型模式)
     - 1.factory_method(工厂方法)
-    - 2.抽象工厂
+    - 2.abstract_factory(抽象工厂)
     - 3.生成器
     - 4.原型
     - 5.单例
