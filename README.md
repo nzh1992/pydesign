@@ -7,7 +7,7 @@
 - create_mode(创建型模式)
     - 1.factory_method(工厂方法)
     - 2.abstract_factory(抽象工厂)
-    - 3.生成器
+    - 3.generator(生成器)
     - 4.原型
     - 5.单例
 - structure_mode(结构型模式)
