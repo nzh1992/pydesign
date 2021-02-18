@@ -8,8 +8,8 @@
     - 1.factory_method(工厂方法)
     - 2.abstract_factory(抽象工厂)
     - 3.generator(生成器)
-    - 4.原型
-    - 5.单例
+    - 4.prototype(原型)
+    - 5.singleton(单例)
 - structure_mode(结构型模式)
     - 6.适配器
     - 7.桥接
