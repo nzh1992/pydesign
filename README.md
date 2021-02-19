@@ -12,7 +12,7 @@
     - 5.singleton(单例)
 - structure_mode(结构型模式)
     - 6.adapter(适配器)
-    - 7.桥接
+    - 7.bridge(桥接)
     - 8.组合
     - 9.装饰
     - 10.外观
