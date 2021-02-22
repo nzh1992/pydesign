@@ -14,7 +14,7 @@
     - 6.adapter(适配器)
     - 7.bridge(桥接)
     - 8.composite(组合)
-    - 9.装饰
+    - 9.decorator(装饰)
     - 10.外观
     - 11.享元
     - 12.代理
