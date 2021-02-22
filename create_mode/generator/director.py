@@ -3,7 +3,7 @@
 """
 @Author  : ziheng.ni
 @Time    : 2021/2/9 10:24
-@Contact : ziheng.ni@envision-energy.com
+@Contact : nzh199266@163.com
 @Desc    : 
 """
 from create_mode.generator.builder import Builder

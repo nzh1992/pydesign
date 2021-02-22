@@ -3,7 +3,7 @@
 """
 @Author  : ziheng.ni
 @Time    : 2021/2/7 16:57
-@Contact : ziheng.ni@envision-energy.com
+@Contact : nzh199266@163.com
 @Desc    : 
 """
 from __future__ import annotations

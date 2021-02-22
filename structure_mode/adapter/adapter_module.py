@@ -3,7 +3,7 @@
 """
 @Author  : ziheng.ni
 @Time    : 2021/2/18 15:03
-@Contact : ziheng.ni@envision-energy.com
+@Contact : nzh199266@163.com
 @Desc    : 
 """
 from structure_mode.adapter.raw_module import Target

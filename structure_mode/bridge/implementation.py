@@ -3,7 +3,7 @@
 """
 @Author  : ziheng.ni
 @Time    : 2021/2/19 11:29
-@Contact : ziheng.ni@envision-energy.com
+@Contact : nzh199266@163.com
 @Desc    : 实现模块
 """
 from abc import ABC, abstractmethod

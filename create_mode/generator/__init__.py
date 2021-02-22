@@ -3,7 +3,7 @@
 """
 @Author  : ziheng.ni
 @Time    : 2021/2/8 13:24
-@Contact : ziheng.ni@envision-energy.com
+@Contact : nzh199266@163.com
 @Desc    : 生成器模式
 """
 

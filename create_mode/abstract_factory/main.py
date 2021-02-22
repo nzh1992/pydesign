@@ -3,7 +3,7 @@
 """
 @Author  : ziheng.ni
 @Time    : 2021/2/8 13:08
-@Contact : ziheng.ni@envision-energy.com
+@Contact : nzh199266@163.com
 @Desc    : 
 """
 from create_mode.abstract_factory.factory import AbstractFactory, ArtFactory, ModernFactory, VictorianFactory

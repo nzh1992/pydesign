@@ -3,7 +3,7 @@
 """
 @Author  : ziheng.ni
 @Time    : 2021/2/22 9:54
-@Contact : ziheng.ni@envision-energy.com
+@Contact : nzh199266@163.com
 @Desc    : 
 """
 from structure_mode.decorator.component import ConcreteDecoratorA, ConcreteDecoratorB, ConcreteComponent, Component
